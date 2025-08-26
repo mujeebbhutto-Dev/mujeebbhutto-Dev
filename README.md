@@ -36,13 +36,6 @@
 👉 *Check my repositories for more projects & learning experiments!*  
 
 ---
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujeebbhutto-Dev&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujeebbhutto-Dev&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
 ---
 
 ## 🤝 Connect With Me
